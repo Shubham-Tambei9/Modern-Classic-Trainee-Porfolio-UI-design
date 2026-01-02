@@ -7,7 +7,9 @@ This interface focuses on trainer credibility, experience, reviews, and seamless
 
 ## 🖼️ Preview
 
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/048110a8-ad1e-42b3-be71-d576676c21d3" /><br>
 <img width="3698" height="2565" alt="personal portfolio" src="https://github.com/user-attachments/assets/68226df6-ceff-4ec1-9b32-0869264bed72" />
+
 
 ---
 
